@@ -1,3 +1,5 @@
 This is my first file
 Aldatuta
 Hurrengo aldaketa
+Berriro aldatu
+Bien konbinazioa
