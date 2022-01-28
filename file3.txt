@@ -3,3 +3,4 @@ Aldatu
 Hurrengoa aldatu
 Berria
 azkena
+aldaketa
